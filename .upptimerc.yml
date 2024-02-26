@@ -7,6 +7,8 @@ sites:
     url: https://iguide.illinois.edu
   - name: I-GUIDE Datacatalog
     url: https://iguide.cuahsi.io
+  - name: Upptime test page deleted
+    url: https://yunfankang.github.io/uptime-test-for-iguide
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
