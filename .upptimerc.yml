@@ -10,7 +10,7 @@ sites:
   - name: Upptime test page deleted (404)
     url: https://yunfankang.github.io/uptime-test-for-iguide
   - name: Random url (Can't be reached)
-    url: http://dfdsfsafs.com
+    url: http://dfdsfsfs.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
