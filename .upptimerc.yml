@@ -3,6 +3,10 @@ owner: yunfankang # Your GitHub organization or username, where this repository 
 repo: upptime # The name of this repository
 
 sites:
+  - name: I-GUIDE
+    url: https://iguide.illinois.edu
+  - name: I-GUIDE Datacatalog
+    url: https://iguide.cuahsi.io
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
