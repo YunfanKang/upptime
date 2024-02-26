@@ -11,6 +11,8 @@ sites:
     url: https://yunfankang.github.io/uptime-test-for-iguide
   - name: Random url (Can't be reached)
     url: http://dfdsfsfs.com
+  - name: Another Random url (Can't be reached)
+    url: http://dfdsf3sfs.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
